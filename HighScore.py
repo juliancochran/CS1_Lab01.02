@@ -1,3 +1,7 @@
+# encapsules a high score with initials (string) and score (integer)
+__author__ = 'Julian Cochran'
+__version__ = '02/12/2025'
+
 class HighScore:
     def __init__(self, inits, score):
         self.initials = inits

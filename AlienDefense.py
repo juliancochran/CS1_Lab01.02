@@ -1,3 +1,13 @@
+# my first Pygame game, stop the things from killing the dude
+__author__ = 'Julian Cochran'
+__version__ = '02/12/2025'
+
+# My flint sessions are here:
+#https://app.flintk12.com/activity/pygame-debug-le-1fe068/session/1d1aee84-0644-4ab7-8f61-758eec2076ef
+#https://app.flintk12.com/activity/pygame-debug-le-1fe068/session/94728db7-1385-4b65-9224-f4a36e9e9d67
+
+
+
 import pygame
 import os
 import random
